@@ -6,11 +6,11 @@
 
 ### Stats
 
-<sub>I've been on GitHub for **{{ ACCOUNT_AGE }}** years, pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, and submitted **{{ PULL_REQUESTS }}** pull requests across **{{ REPOSITORIES }}** repositories, with contributions to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.</sub>
+I've been on GitHub for **{{ ACCOUNT_AGE }}** years, pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, and submitted **{{ PULL_REQUESTS }}** pull requests across **{{ REPOSITORIES }}** repositories, with contributions to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
-<sub>Longest commit streak: **{{ LONGEST_COMMIT_STREAK }}** days.</sub>
+Longest commit streak: **{{ LONGEST_COMMIT_STREAK }}** days.
 
-<sub>Top languages: {{ LANGUAGE_TEMPLATE_START }}**{{LANGUAGE_NAME}}** ({{LANGUAGE_PERCENT}}%) {{ LANGUAGE_TEMPLATE_END }}</sub>
+Top languages: {{ LANGUAGE_TEMPLATE_START }}**{{LANGUAGE_NAME}}** ({{LANGUAGE_PERCENT}}%) {{ LANGUAGE_TEMPLATE_END }}
 
 </td></tr></table>
 
