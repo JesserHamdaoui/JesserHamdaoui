@@ -1,6 +1,6 @@
-<table><tr><td valign="top" width="200">
+<table><tr><td valign="top" width="280">
 
-<img width="200" src="assets/terminal-animation.gif">
+<img width="260" src="assets/terminal-animation.gif">
 
 </td><td valign="top">
 
