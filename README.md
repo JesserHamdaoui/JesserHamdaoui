@@ -1,9 +1,8 @@
-<img align="left" width="200" src="assets/terminal-animation.gif">
+<table><tr><td valign="top" width="200">
 
-<br>
-<br>
-<br>
-<br>
+<img width="200" src="assets/terminal-animation.gif">
+
+</td><td valign="top">
 
 ### Stats
 
@@ -12,6 +11,8 @@ I've been on GitHub for **{{ ACCOUNT_AGE }}** years, pushed **{{ COMMITS }}** co
 Longest commit streak: **{{ LONGEST_COMMIT_STREAK }}** days.
 
 Top languages: {{ LANGUAGE_TEMPLATE_START }}**{{LANGUAGE_NAME}}** ({{LANGUAGE_PERCENT}}%) {{ LANGUAGE_TEMPLATE_END }}
+
+</td></tr></table>
 
 <table><tr><td valign="top" width="33%">
 
