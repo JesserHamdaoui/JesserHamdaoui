@@ -1,9 +1,5 @@
 <img align="left" width="200" src="assets/terminal-animation.gif">
 
-I'm **Jesser Hamdaoui**, a full-stack developer — TypeScript/React on the frontend, Python on the backend.
-
-<br>
-<br>
 <br>
 <br>
 
