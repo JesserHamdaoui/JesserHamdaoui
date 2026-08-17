@@ -2,6 +2,10 @@
 
 <img width="260" src="assets/terminal-animation.gif">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jesser-hamdaoui)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/jesser_hamdaoui)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hamdaouijesser2004@gmail.com)
+
 </td><td valign="top">
 
 ### Stats
@@ -11,10 +15,6 @@ I've been on GitHub for **{{ ACCOUNT_AGE }}** years, pushed **{{ COMMITS }}** co
 Longest commit streak: **{{ LONGEST_COMMIT_STREAK }}** days.
 
 Top languages: {{ LANGUAGE_TEMPLATE_START }}**{{LANGUAGE_NAME}}** ({{LANGUAGE_PERCENT}}%) {{ LANGUAGE_TEMPLATE_END }}
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jesser-hamdaoui)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/jesser_hamdaoui)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hamdaouijesser2004@gmail.com)
 
 </td></tr></table>
 
