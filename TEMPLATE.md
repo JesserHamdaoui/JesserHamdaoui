@@ -19,32 +19,32 @@ Top languages: {{ LANGUAGE_TEMPLATE_START }}**{{LANGUAGE_NAME}}** ({{LANGUAGE_PE
 
 ### Projects
 
-[EYvents](https://github.com/JesserHamdaoui/eyvents-web) - Event management platform (web + mobile + backend), built during an internship at EY
+[EYvents](https://github.com/JesserHamdaoui/eyvents-web) - Event management platform, built during an EY internship
 
-[MedTech Virtual Lab](https://github.com/JesserHamdaoui/medtech-virtual-lab) - Interactive STEM physics simulation platform (Coulomb's law, standing waves, collisions)
+[MedTech Virtual Lab](https://github.com/JesserHamdaoui/medtech-virtual-lab) - Interactive STEM physics simulation platform
 
-[Maker Space SaaS](https://github.com/JesserHamdaoui/maker-space-saas) - Equipment booking and resource management system for SMU's Maker Space
+[Maker Space SaaS](https://github.com/JesserHamdaoui/maker-space-saas) - Equipment booking system for SMU's Maker Space
 
-[Kawel](https://github.com/JesserHamdaoui/kawel) - Digital-first board game café platform (Next.js + Expo/React Native)
+[Kawel](https://github.com/JesserHamdaoui/kawel) - Digital-first board game café platform
 
 </td><td valign="top" width="34%">
 
 ### Open Source Contributions
 
-[google/adk-python](https://github.com/google/adk-python) - Fixed `None` metric score handling in `LocalEvalSampler` ([merged](https://github.com/google/adk-python/pull/5415))
+[google/adk-python](https://github.com/google/adk-python) - Fixed `None` metric handling in `LocalEvalSampler` ([merged](https://github.com/google/adk-python/pull/5415))
 
 </td><td valign="top" width="33%">
 
 ### Hackathons
 
-[KNL Smoothing](https://github.com/SMURF-hack/KNL-smoothing) - Vector-search credit decision app, Qdrant Vector Database Hackathon 2026
+[KNL Smoothing](https://github.com/SMURF-hack/KNL-smoothing) - Vector-search credit decision app (Qdrant Hackathon 2026)
 
-[HippoMind](https://github.com/JesserHamdaoui/HippoMind) - Reconstructive-memory file finder, Qdrant Vector Database Hackathon 2026
+[HippoMind](https://github.com/JesserHamdaoui/HippoMind) - Reconstructive-memory file finder (Qdrant Hackathon 2026)
 
-[NOC RCA AI Agent System](https://github.com/JesserHamdaoui/odc-tsyp-noc-smurf) - LangChain/Ollama agents for network root-cause analysis, ODC TSYP NOC
+[NOC RCA AI Agent System](https://github.com/JesserHamdaoui/odc-tsyp-noc-smurf) - LangChain/Ollama agents for network root-cause analysis
 
-[MedTech Virtual Lab](https://github.com/SMURF-hack/medtech-virtual-lab-ieee-educational-week) - IEEE Educational Week
+[MedTech Virtual Lab](https://github.com/SMURF-hack/medtech-virtual-lab-ieee-educational-week) - Built for IEEE Educational Week
 
-[SMU Career Fair Hackathon 2025](https://github.com/JesserHamdaoui/smu-career-fair-hackathon-2025) - Team build
+[SMU Career Fair Hackathon 2025](https://github.com/JesserHamdaoui/smu-career-fair-hackathon-2025) - Team build at SMU's career fair
 
 </td></tr></table>
