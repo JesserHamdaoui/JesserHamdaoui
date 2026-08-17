@@ -33,8 +33,6 @@ Top languages: {{ LANGUAGE_TEMPLATE_START }}**{{LANGUAGE_NAME}}** ({{LANGUAGE_PE
 
 [google/adk-python](https://github.com/google/adk-python) - Fixed `None` metric score handling in `LocalEvalSampler` ([merged](https://github.com/google/adk-python/pull/5415))
 
-[google/adk-python](https://github.com/google/adk-python) - Added `--python_version` option to `adk deploy` ([PR](https://github.com/google/adk-python/pull/4792))
-
 </td><td valign="top" width="33%">
 
 ### Hackathons
