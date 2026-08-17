@@ -15,13 +15,13 @@ Top languages: {{ LANGUAGE_TEMPLATE_START }}**{{LANGUAGE_NAME}}** ({{LANGUAGE_PE
 
 ### Projects
 
-[EYvents](https://github.com/JesserHamdaoui/eyvents-web) - Event management platform, built during an EY internship
+[EYvents](https://github.com/JesserHamdaoui/eyvents-web) - Event management platform built during an EY internship
 
-[MedTech Virtual Lab](https://github.com/JesserHamdaoui/medtech-virtual-lab) - Interactive STEM physics simulation platform
+[MedTech Virtual Lab](https://github.com/JesserHamdaoui/medtech-virtual-lab) - STEM physics lab with interactive browser simulations
 
-[Maker Space SaaS](https://github.com/JesserHamdaoui/maker-space-saas) - Equipment booking system for SMU's Maker Space
+[Maker Space SaaS](https://github.com/JesserHamdaoui/maker-space-saas) - Equipment booking platform for SMU's student maker space
 
-[Kawel](https://github.com/JesserHamdaoui/kawel) - Digital-first board game café platform
+[Kawel](https://github.com/JesserHamdaoui/kawel) - Board game café platform with an AI rules chatbot
 
 </td><td valign="top" width="34%">
 
@@ -33,14 +33,14 @@ Top languages: {{ LANGUAGE_TEMPLATE_START }}**{{LANGUAGE_NAME}}** ({{LANGUAGE_PE
 
 ### Hackathons
 
-[KNL Smoothing](https://github.com/SMURF-hack/KNL-smoothing) - Vector-search credit decision app (Qdrant Hackathon 2026)
+[KNL Smoothing](https://github.com/SMURF-hack/KNL-smoothing) - Vector-based credit decisions for underbanked markets (Qdrant Hackathon 2026)
 
-[HippoMind](https://github.com/JesserHamdaoui/HippoMind) - Reconstructive-memory file finder (Qdrant Hackathon 2026)
+[HippoMind](https://github.com/JesserHamdaoui/HippoMind) - Reconstructive-memory file finder using AI clustering (Qdrant Hackathon 2026)
 
-[NOC RCA AI Agent System](https://github.com/JesserHamdaoui/odc-tsyp-noc-smurf) - LangChain/Ollama agents for network root-cause analysis
+[NOC RCA Agent System](https://github.com/JesserHamdaoui/odc-tsyp-noc-smurf) - AI root-cause analysis for 4G LTE network operations
 
-[MedTech Virtual Lab](https://github.com/SMURF-hack/medtech-virtual-lab-ieee-educational-week) - Built for IEEE Educational Week
+[MedTech Virtual Lab](https://github.com/SMURF-hack/medtech-virtual-lab-ieee-educational-week) - Physics lab with a real-time AI grading assistant
 
-[SMU Career Fair Hackathon 2025](https://github.com/JesserHamdaoui/smu-career-fair-hackathon-2025) - Team build at SMU's career fair
+[SMU Career Fair](https://github.com/JesserHamdaoui/smu-career-fair-hackathon-2025) - Microservices-based app built for a campus hackathon
 
 </td></tr></table>
