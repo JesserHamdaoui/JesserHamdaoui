@@ -14,7 +14,7 @@ I've been on GitHub for **4** years, pushed **1114** commits, opened **28** issu
 
 Longest commit streak: **9** days.
 
-Top languages: **TypeScript** (48.4%) **JavaScript** (12.6%) **Python** (10.1%) **Vue** (9%) **CSS** (7.3%) **HTML** (5.8%) **Java** (1.4%) **Other** (5%) 
+Top languages: **TypeScript** (48.5%) **JavaScript** (12.6%) **Python** (10.1%) **Vue** (9%) **CSS** (7.3%) **HTML** (5.8%) **Java** (1.4%) **Other** (5%) 
 </td></tr></table>
 
 <table><tr><td valign="top" width="33%">
