@@ -10,11 +10,11 @@
 
 ### Stats
 
-I've been on GitHub for **4** years, pushed **1639** commits, opened **38** issues, and submitted **70** pull requests across **78** repositories, with contributions to **10** public repositories.
+I've been on GitHub for **4** years, pushed **1641** commits, opened **38** issues, and submitted **71** pull requests across **78** repositories, with contributions to **10** public repositories.
 
 Longest commit streak: **9** days.
 
-Top languages: **TypeScript** (53.7%) **Python** (15.7%) **CSS** (9.1%) **HTML** (7.5%) **JavaScript** (5.3%) **Vue** (3.3%) **PLpgSQL** (2.6%) **Other** (2.2%) 
+Top languages: **TypeScript** (53.7%) **Python** (15.7%) **CSS** (9.1%) **HTML** (7.5%) **JavaScript** (5.3%) **Vue** (3.3%) **PLpgSQL** (2.6%) **Other** (2.3%) 
 </td></tr></table>
 
 <table><tr><td valign="top" width="33%">
